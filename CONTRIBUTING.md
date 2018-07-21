@@ -29,6 +29,7 @@ Before submitting a pull request:
 
 - Check the codebase to ensure that your feature doesn't already exist.
 - Check the pull requests to ensure that another person hasn't already submitted the feature or fix.
+- Note anything relevant in the [changelog file](CHANGELOG.md).
 
 ## Requirements
 
@@ -43,5 +44,7 @@ Before submitting a pull request:
 - **One pull request per feature** - If you want to do more than one thing, send multiple pull requests.
 
 - **Send coherent history** - Make sure each individual commit in your pull request is meaningful. If you had to make multiple intermediate commits while developing, please [squash them](https://www.git-scm.com/book/en/v2/Git-Tools-Rewriting-History#Changing-Multiple-Commit-Messages) before submitting.
+
+- **Include emoji in your commit message** - Using [Gitmoji](https://gitmoji.carloscuesta.me/) as a guide, try to include an emoji at the start of a commit message to make it easily identifiable.
 
 **Happy coding**!
