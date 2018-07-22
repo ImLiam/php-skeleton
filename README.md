@@ -7,7 +7,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/imliam/:package_name.svg)](https://packagist.org/packages/imliam/:package_name)
 [![License](https://img.shields.io/github/license/imliam/:package_name.svg)](LICENSE.md)
 
-**NOTE: READ THE [SETUP FILE](.github/SETUP.md) FOR INSTRUCTIONS ON USING THIS SKELETON PACKAGE.**
+**NOTE: READ THE [SETUP FILE](SETUP.md) FOR INSTRUCTIONS ON USING THIS SKELETON PACKAGE.**
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
